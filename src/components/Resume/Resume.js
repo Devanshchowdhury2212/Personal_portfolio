@@ -25,7 +25,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href='https:/bit.ly/devansh_chowdhury_007'
+            href='bit.ly/devansh_chowdhury_007'
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
