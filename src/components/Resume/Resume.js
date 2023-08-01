@@ -27,6 +27,7 @@ function ResumeNew() {
             variant="primary"
             href='https:/bit.ly/devansh_chowdhury_007'
             target="_blank"
+            rel="noreferrer"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
