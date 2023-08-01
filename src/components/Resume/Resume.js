@@ -23,18 +23,15 @@ function ResumeNew() {
       <Container fluid className="resume-section">
         <Particle />
         <Row style={{ justifyContent: "center", position: "relative" }}>
-          <a rel="noreferrer" href='https:/bit.ly/devansh_chowdhury_007' >
           <Button
             variant="primary"
             href='https:/bit.ly/devansh_chowdhury_007'
             target="_blank"
-            
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
             &nbsp;Download Resume
           </Button>
-          </a>
         </Row>
 
         {/* <Row className="resume">
