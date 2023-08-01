@@ -88,7 +88,7 @@ function Home2() {
               </li>    */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/abhirams2020/"
+                  href="https://www.linkedin.com/in/devansh-chowdhury-a41318192/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -98,7 +98,7 @@ function Home2() {
               </li>              
               <li className="social-icons">
                 <a
-                  href="https://github.com/abhirams2020"
+                  href="https://github.com/Devanshchowdhury2212"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -108,7 +108,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://leetcode.com/abhirams2020"
+                  href="https://leetcode.com/devanshchowdhury007/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -118,7 +118,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://auth.geeksforgeeks.org/user/abhirams2020/profile"
+                  href="https://auth.geeksforgeeks.org/user/devanshchowdhury1"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -126,16 +126,16 @@ function Home2() {
                   <SiGeeksforgeeks />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
-                  href="https://twitter.com/abhirams20201"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
 
             </ul>
           </Col>
