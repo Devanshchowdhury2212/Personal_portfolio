@@ -68,7 +68,7 @@ function Home() {
                   <br />I am Devansh Chowdhury, an experienced Computer science student with a strong background in Machine Learning, Data structures & algorithms, and Web development<span className="purple"> from IIIT GWALIOR.</span>
                 <br />As a highly motivated and detail-oriented individual, I possess a passion for solving complex problems and creating innovative solutions. With hands-on experience in developing software applications and a deep understanding of programming languages such as Python ,MYSQL, C++ along with good command over multiple technology.
                 <br /> I am confident in my ability to contribute to any software engineering team. My strong communication skills and ability to collaborate effectively with team members make me an excellent fit for any SDE position.
-                Apart from coding, some other activities that I love to do!
+                
                 <br />
                 {/* <br />I am proficient in langauges like
                 <b className="purple"> C++, Python, Javascript</b> and <b className="purple">SQL,MongoDB</b>
