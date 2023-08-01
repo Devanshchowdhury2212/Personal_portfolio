@@ -26,7 +26,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href='https:/bit.ly/devansh_chowdhury_007'
-            target=""
+            target="_blank"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
