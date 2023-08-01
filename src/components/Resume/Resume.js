@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 // import "react-pdf/dist/esm/Page/TextLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink = "https:/bit.ly/devansh_chowdhury_007";
+// const resumeLink = "https:/bit.ly/devansh_chowdhury_007";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
@@ -26,7 +26,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href='https:/bit.ly/devansh_chowdhury_007'
-            target="_blank"
+            target=""
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
