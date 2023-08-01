@@ -14,7 +14,6 @@ function AboutCard() {
             <br />I am final year student pursuing Integrated Btech MBA in IT from <span className="purple">IIIT GWALIOR.</span>
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
